@@ -62,3 +62,21 @@ The platform allows users to *browse, search, and filter properties,* while admi
 * JWT tokens maintain secure sessions for logged-in users
 
 * Admin dashboard interacts with the backend to manage listings
+
+**How to Run:-**
+
+*1. Backend Setup:*
+````
+cd backend
+npm install
+npm run dev
+````
+
+*2. Frontend Setup:*
+````
+cd frontend
+npm install
+npm run dev
+````
+
+*3. Open the provided Vite localhost URL in your browser to see the app.*
