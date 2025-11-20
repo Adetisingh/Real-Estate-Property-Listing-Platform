@@ -79,4 +79,4 @@ npm install
 npm run dev
 ````
 
-*3. Open the provided Vite localhost URL in your browser to see the app.*
+*3. Open the provided Vite localhost URL in the browser to see the app.*
